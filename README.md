@@ -1,4 +1,4 @@
-# project-2-group-8
+# World Freedom Vs Happiness ETL
 ​
 ## Overview
 The purpose of this project is to find the happiness and freedom of the populace and combine the data to see where the rankings are for the most “free people” and if that correlates to their happiness ranking.  
